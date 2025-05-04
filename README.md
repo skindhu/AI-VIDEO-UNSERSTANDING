@@ -1,6 +1,4 @@
-[阅读中文文档 (Read Chinese Document)](src/README-CN.md)
-
-# AI Video Understanding Tool
+[阅读中文文档 (Read Chinese Document)](README-CN.md)
 
 ## 1. Project Background
 
