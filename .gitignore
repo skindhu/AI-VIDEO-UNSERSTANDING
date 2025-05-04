@@ -1,0 +1,6 @@
+.env
+venv/
+output/
+.vscode/
+.idea/
+.DS_Store

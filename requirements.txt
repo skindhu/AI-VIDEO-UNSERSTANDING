@@ -1,0 +1,14 @@
+# 基础依赖
+python-dotenv>=1.0.0
+
+# 视频处理
+opencv-python>=4.8.0
+
+# 音频转录
+openai-whisper>=20231117
+ffmpeg-python>=0.2.0
+
+# AI服务 API
+openai>=1.63.0  # 通义千问 API
+google-genai>=1.12.0  # Google Gemini API
+requests>=2.31.0
