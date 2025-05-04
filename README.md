@@ -6,6 +6,8 @@ The public domain (such as video websites, live streaming platforms) contains ma
 
 By analyzing the **speech content** (transcribed via ASR) and **visual text information** (extracting subtitles or recognized relevant text from the screen) in the video, combined with the reasoning and summarization capabilities of LLMs, the aim is to quickly grasp the core of the video, providing technical support for scenarios like content analysis and trend mining. This approach aims to compensate for the current shortcomings in video understanding capabilities and provide a practical solution.
 
+For details of the plan, please read the article:：[高效视频理解新路径：结合多模态与LLM的探索](https://mp.weixin.qq.com/s/71ImnsbI1I090A2KRqOPqQ )
+
 ## 2. Project Module Introduction
 
 This project mainly consists of the following core modules:
@@ -184,3 +186,6 @@ To ensure the functional correctness of each module and the stability of the cod
     ```
 
 Regularly running and maintaining test cases is an important part of ensuring project code quality and stability.
+
+## If you want to know more about AI exploration, you can follow the author’s official account
+<img src="https://wechat-account-1251781786.cos.ap-guangzhou.myqcloud.com/wechat_account.jpeg" width="30%">

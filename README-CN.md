@@ -4,6 +4,9 @@
 
 我主要通过分析视频中的**语音内容**（通过ASR转录）和**视觉文本信息**（提取屏幕上的字幕或识别出的相关文字），结合LLM的推理和总结能力，旨在快速把握视频核心，为内容分析、趋势挖掘等场景提供技术支持。这种方法旨在弥补当前视频理解能力的不足，提供一种实用的解决方案。
 
+方案详情，请阅读文章：[高效视频理解新路径：结合多模态与LLM的探索](https://mp.weixin.qq.com/s/71ImnsbI1I090A2KRqOPqQ )
+
+
 ## 2. 项目模块介绍
 
 本项目主要由以下几个核心模块构成：
@@ -182,3 +185,6 @@ python -m src.main "/path/to/another_video.avi" -o "results" --frame-rate 2 -d "
     ```
 
 定期的运行和维护测试用例是保障项目代码质量和稳定性的重要环节。
+
+## 若希望了解更多AI探索相关的内容，可关注作者公众号
+<img src="https://wechat-account-1251781786.cos.ap-guangzhou.myqcloud.com/wechat_account.jpeg" width="30%">
